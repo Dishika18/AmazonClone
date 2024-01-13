@@ -22,6 +22,7 @@ _Technologies Used:_
   •Basic HTML
   •Font Awesome for icons
   •cdnjs for extracting the css file for styling/styling
+  •css file for styling the website
 
 _Contributing_
 Feel free to customize this README based on your specific Amazon clone project. Include additional sections or details as needed to provide comprehensive information for users and contributors.
