@@ -5,7 +5,7 @@ A simple Amazon clone project to showcase basic e-commerce functionalities.
 
 **Table of Contents**
   •Introduction
-  •Features
+  •Clone Features
   •Technologies Used
   •Contributing
 
